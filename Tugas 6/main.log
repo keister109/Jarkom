@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.22)  13 JUL 2021 23:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.22)  13 JUL 2021 23:20
 entering extended mode
 **"c:/Users/ASUS/Documents/GitHub/Jarkom/Tugas 6/main.tex"
 (c:/Users/ASUS/Documents/GitHub/Jarkom/Tugas 6/main.tex
@@ -275,121 +275,123 @@ Underfull \hbox (badness 2293) in paragraph at lines 44--47
 \OT1/ptm/m/n/10 para peng-guna in-for-masi dalam melakukan ak-tiv-i-tas-nya.
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 58.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 69.
 (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 58.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 69.
  (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Underfull \hbox (badness 3029) in paragraph at lines 73--74
-[]\OT1/ptm/m/n/10 Kualitas sinyal-nya dipen-garuhi oleh keadaan udara
- []
-
-[1{C:/Users/ASUS/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+) [1{C:/Users/ASUS/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
 
 ]
 <image/001.jpg, id=10, 180.675pt x 332.442pt>
 File: image/001.jpg Graphic file (type jpg)
 <use image/001.jpg>
-Package pdftex.def Info: image/001.jpg  used on input line 128.
+Package pdftex.def Info: image/001.jpg  used on input line 109.
 (pdftex.def)             Requested size: 206.39685pt x 379.77406pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Underfull \vbox (badness 1668) has occurred while \output is active []
-
- [2 <./image/001.jpg>]
-<image/002.png, id=14, 465.99094pt x 347.04657pt>
+<image/002.png, id=11, 465.99094pt x 347.04657pt>
 File: image/002.png Graphic file (type png)
 <use image/002.png>
-Package pdftex.def Info: image/002.png  used on input line 147.
+Package pdftex.def Info: image/002.png  used on input line 128.
 (pdftex.def)             Requested size: 206.39685pt x 153.71239pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 1796) has occurred while \output is active []
+
+ [2 <./image/001.jpg>]
 <image/003.jpg, id=16, 603.25375pt x 290.08376pt>
 File: image/003.jpg Graphic file (type jpg)
 <use image/003.jpg>
-Package pdftex.def Info: image/003.jpg  used on input line 166.
+Package pdftex.def Info: image/003.jpg  used on input line 147.
 (pdftex.def)             Requested size: 206.39685pt x 99.24684pt.
 <image/004.jpg, id=17, 1156.32pt x 620.91975pt>
 File: image/004.jpg Graphic file (type jpg)
 <use image/004.jpg>
-Package pdftex.def Info: image/004.jpg  used on input line 180.
+Package pdftex.def Info: image/004.jpg  used on input line 161.
 (pdftex.def)             Requested size: 206.39685pt x 110.82275pt.
 
-Underfull \hbox (badness 1776) in paragraph at lines 183--186
+Underfull \hbox (badness 1776) in paragraph at lines 164--167
 []\OT1/ptm/m/n/10 setelah su-dah ma-suk Ter-li-hat bagian-bagian pent-ing
  []
 
-[3 <./image/002.png> <./image/003.jpg> <./image/004.jpg>]
-<image/005.jpg, id=22, 1160.53575pt x 620.91975pt>
+<image/005.jpg, id=18, 1160.53575pt x 620.91975pt>
 File: image/005.jpg Graphic file (type jpg)
 <use image/005.jpg>
-Package pdftex.def Info: image/005.jpg  used on input line 190.
+Package pdftex.def Info: image/005.jpg  used on input line 171.
 (pdftex.def)             Requested size: 206.39685pt x 110.42482pt.
+[3 <./image/002.png> <./image/003.jpg> <./image/004.jpg> <./image/005.jpg>]
 <image/007.jpg, id=23, 1155.1155pt x 649.2255pt>
 File: image/007.jpg Graphic file (type jpg)
 <use image/007.jpg>
-Package pdftex.def Info: image/007.jpg  used on input line 219.
+Package pdftex.def Info: image/007.jpg  used on input line 200.
 (pdftex.def)             Requested size: 206.39685pt x 116.00359pt.
 <image/008.jpg, id=24, 1156.32pt x 650.43pt>
 File: image/008.jpg Graphic file (type jpg)
 <use image/008.jpg>
-Package pdftex.def Info: image/008.jpg  used on input line 225.
+Package pdftex.def Info: image/008.jpg  used on input line 206.
 (pdftex.def)             Requested size: 154.80157pt x 87.06982pt.
 <image/006.jpg, id=25, 443.256pt x 199.34476pt>
 File: image/006.jpg Graphic file (type jpg)
 <use image/006.jpg>
-Package pdftex.def Info: image/006.jpg  used on input line 240.
+Package pdftex.def Info: image/006.jpg  used on input line 221.
 (pdftex.def)             Requested size: 206.39685pt x 92.8221pt.
 <image/009.jpg, id=26, 1151.502pt x 648.021pt>
 File: image/009.jpg Graphic file (type jpg)
 <use image/009.jpg>
-Package pdftex.def Info: image/009.jpg  used on input line 255.
+Package pdftex.def Info: image/009.jpg  used on input line 236.
 (pdftex.def)             Requested size: 206.39685pt x 116.14433pt.
 <image/010.jpg, id=27, 1153.911pt x 648.62325pt>
 File: image/010.jpg Graphic file (type jpg)
 <use image/010.jpg>
-Package pdftex.def Info: image/010.jpg  used on input line 270.
+Package pdftex.def Info: image/010.jpg  used on input line 251.
 (pdftex.def)             Requested size: 206.39685pt x 116.01476pt.
- [4 <./image/005.jpg> <./image/007.jpg> <./image/008.jpg> <./image/006.jpg> <./image/009.jpg> <./image/010.jpg>]
-<image/011.jpg, id=31, 1155.1155pt x 650.43pt>
+<image/011.jpg, id=28, 1155.1155pt x 650.43pt>
 File: image/011.jpg Graphic file (type jpg)
 <use image/011.jpg>
-Package pdftex.def Info: image/011.jpg  used on input line 287.
+Package pdftex.def Info: image/011.jpg  used on input line 268.
 (pdftex.def)             Requested size: 206.39685pt x 116.21881pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <./image/007.jpg> <./image/008.jpg> <./image/006.jpg> <./image/009.jpg> <./image/010.jpg>]
 <image/012.jpg, id=32, 1154.51324pt x 625.1355pt>
 File: image/012.jpg Graphic file (type jpg)
 <use image/012.jpg>
-Package pdftex.def Info: image/012.jpg  used on input line 301.
+Package pdftex.def Info: image/012.jpg  used on input line 282.
 (pdftex.def)             Requested size: 154.80157pt x 83.81732pt.
 
-Underfull \hbox (badness 2057) in paragraph at lines 310--311
+Underfull \hbox (badness 2057) in paragraph at lines 291--292
 \OT1/ptm/m/n/10 mengikuti stan-dard dari UNII (Un-li-censed Na-tional
  []
 
 
-Underfull \hbox (badness 1845) in paragraph at lines 310--311
+Underfull \hbox (badness 1845) in paragraph at lines 291--292
 \OT1/ptm/m/n/10 In-for-ma-tion In-fras-truc-ture). Teknologi IEEE 802.11a
  []
 
 
-LaTeX Warning: Citation `DhaniPro2021' on page 5 undefined on input line 315.
+LaTeX Warning: Citation `DhaniPro2021' on page 5 undefined on input line 296.
 
 
-LaTeX Warning: Citation `IlmuKomputer.com2021' on page 5 undefined on input line 316.
+LaTeX Warning: Citation `IlmuKomputer.com2021' on page 5 undefined on input line 297.
 
 
-LaTeX Warning: Citation `Khayat2012' on page 5 undefined on input line 317.
+LaTeX Warning: Citation `Khayat2012' on page 5 undefined on input line 298.
 
 
-LaTeX Warning: Citation `Kreasi2021' on page 5 undefined on input line 318.
+LaTeX Warning: Citation `Kreasi2021' on page 5 undefined on input line 299.
 
 
-LaTeX Warning: Citation `Metageek2021' on page 5 undefined on input line 319.
+LaTeX Warning: Citation `Metageek2021' on page 5 undefined on input line 300.
 
 No file main.bbl.
 
@@ -411,13 +413,13 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  4025 strings out of 478864
  59889 string characters out of 2849134
- 373203 words of memory out of 3000000
+ 372203 words of memory out of 3000000
  21910 multiletter control sequences out of 15000+600000
  435603 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,8n,66p,968b,315s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (5 pages, 2457134 bytes).
+Output written on main.pdf (5 pages, 2456599 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
